@@ -1,6 +1,8 @@
 ﻿  stdafx.cpp
   1_read_and_show_image.cpp
   正在生成代码
-  All 183 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  182 of 183 functions (99.5%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
-  1_read_and_show_image.vcxproj -> F:\Code\OpenCV_3\1_read_and_show_image\Release\1_read_and_show_image.exe
+  1_read_and_show_image.vcxproj -> F:\Code\example_of_opencv3\1_read_and_show_image\Release\1_read_and_show_image.exe
