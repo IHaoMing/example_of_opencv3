@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19_pyrUp_and_pyrDown", "19_pyrUp_and_pyrDown\19_pyrUp_and_pyrDown.vcxproj", "{D99190E3-C8FA-42E3-B41C-B6E8F2146EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D99190E3-C8FA-42E3-B41C-B6E8F2146EEC}.Debug|x64.ActiveCfg = Debug|x64
+		{D99190E3-C8FA-42E3-B41C-B6E8F2146EEC}.Debug|x64.Build.0 = Debug|x64
+		{D99190E3-C8FA-42E3-B41C-B6E8F2146EEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{D99190E3-C8FA-42E3-B41C-B6E8F2146EEC}.Debug|x86.Build.0 = Debug|Win32
+		{D99190E3-C8FA-42E3-B41C-B6E8F2146EEC}.Release|x64.ActiveCfg = Release|x64
+		{D99190E3-C8FA-42E3-B41C-B6E8F2146EEC}.Release|x64.Build.0 = Release|x64
+		{D99190E3-C8FA-42E3-B41C-B6E8F2146EEC}.Release|x86.ActiveCfg = Release|Win32
+		{D99190E3-C8FA-42E3-B41C-B6E8F2146EEC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86A760DE-1257-49C8-84DB-F48B1A12185E}
+	EndGlobalSection
+EndGlobal
