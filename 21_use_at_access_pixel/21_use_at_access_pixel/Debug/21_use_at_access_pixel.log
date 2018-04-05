@@ -1,0 +1,4 @@
+﻿  21_use_at_access_pixel.cpp
+f:\code\example_of_opencv3\21_use_at_access_pixel\21_use_at_access_pixel\21_use_at_access_pixel.cpp(61): warning C4018: “<”: 有符号/无符号不匹配
+f:\code\example_of_opencv3\21_use_at_access_pixel\21_use_at_access_pixel\21_use_at_access_pixel.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+  21_use_at_access_pixel.vcxproj -> F:\Code\example_of_opencv3\21_use_at_access_pixel\Debug\21_use_at_access_pixel.exe
